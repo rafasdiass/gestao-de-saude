@@ -1,0 +1,38 @@
+.Dashboard {
+  padding: 20px;
+}
+
+.summary-cards {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  padding: 20px;
+  width: 30%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.charts {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.chart {
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  padding: 20px;
+  width: 45%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.notifications {
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
